@@ -1,4 +1,4 @@
-# Pma/PasswordEncoderBundle
+# Pma/PasswordEncoderBundle [![Build Status](https://travis-ci.org/pmarien/PasswordEncoderBundle.svg)](https://travis-ci.org/pmarien/PasswordEncoderBundle)
 This Bundle offers an Encoder for the Symfony-Security-System which combines 
 various hash algorithms for secure passwords.
 
