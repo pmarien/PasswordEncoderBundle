@@ -1,6 +1,6 @@
 {
   "name":              "pma/password-encoder-bundle",
-  "description":       "This Bundle offers an Encoder for the Symfony-Security-System which combines various hash algorithms for secure passwords",
+  "description":       "This Bundle offers an Encoder for the Symfony-Security-System which combines various hash algorithms for secure passwords.",
   "keywords":          [
     "encoder",
     "security",
