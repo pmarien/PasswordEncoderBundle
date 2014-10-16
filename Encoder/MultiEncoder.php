@@ -22,7 +22,7 @@ class MultiEncoder implements PasswordEncoderInterface
 
     foreach ($algorithms as $algorithm)
     {
-      $password = hash($algorithm, $password . $salt) . $salt;
+      $password = hash($algorithm, $password . $salt);
     }
 
     return $password;
