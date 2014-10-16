@@ -22,7 +22,7 @@
   ],
   "minimum-stability": "stable",
   "require":           {
-    "php":                          ">=5.3",
+    "php":                          ">=5.4",
     "symfony/security":             ">=2.3",
     "symfony/config":               ">=2.3",
     "symfony/dependency-injection": ">=2.3",
